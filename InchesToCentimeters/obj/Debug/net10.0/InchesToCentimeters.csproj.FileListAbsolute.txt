@@ -1,0 +1,14 @@
+/Users/javierflores/CsharpProjects/InchesToCentimeters/bin/Debug/net10.0/InchesToCentimeters
+/Users/javierflores/CsharpProjects/InchesToCentimeters/bin/Debug/net10.0/InchesToCentimeters.deps.json
+/Users/javierflores/CsharpProjects/InchesToCentimeters/bin/Debug/net10.0/InchesToCentimeters.runtimeconfig.json
+/Users/javierflores/CsharpProjects/InchesToCentimeters/bin/Debug/net10.0/InchesToCentimeters.dll
+/Users/javierflores/CsharpProjects/InchesToCentimeters/bin/Debug/net10.0/InchesToCentimeters.pdb
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.dll
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/refint/InchesToCentimeters.dll
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.pdb
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/InchesToCentimeters.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/InchesToCentimeters/obj/Debug/net10.0/ref/InchesToCentimeters.dll

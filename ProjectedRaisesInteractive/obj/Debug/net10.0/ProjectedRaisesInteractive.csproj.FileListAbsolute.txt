@@ -1,0 +1,14 @@
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/bin/Debug/net10.0/ProjectedRaisesInteractive
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/bin/Debug/net10.0/ProjectedRaisesInteractive.deps.json
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/bin/Debug/net10.0/ProjectedRaisesInteractive.runtimeconfig.json
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/bin/Debug/net10.0/ProjectedRaisesInteractive.dll
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/bin/Debug/net10.0/ProjectedRaisesInteractive.pdb
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.dll
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/refint/ProjectedRaisesInteractive.dll
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.pdb
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ProjectedRaisesInteractive.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/ProjectedRaisesInteractive/obj/Debug/net10.0/ref/ProjectedRaisesInteractive.dll

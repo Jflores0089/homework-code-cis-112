@@ -1,0 +1,14 @@
+/Users/javierflores/CsharpProjects/HoursAndMinutes/bin/Debug/net10.0/HoursAndMinutes
+/Users/javierflores/CsharpProjects/HoursAndMinutes/bin/Debug/net10.0/HoursAndMinutes.deps.json
+/Users/javierflores/CsharpProjects/HoursAndMinutes/bin/Debug/net10.0/HoursAndMinutes.runtimeconfig.json
+/Users/javierflores/CsharpProjects/HoursAndMinutes/bin/Debug/net10.0/HoursAndMinutes.dll
+/Users/javierflores/CsharpProjects/HoursAndMinutes/bin/Debug/net10.0/HoursAndMinutes.pdb
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.dll
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/refint/HoursAndMinutes.dll
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.pdb
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/HoursAndMinutes.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/HoursAndMinutes/obj/Debug/net10.0/ref/HoursAndMinutes.dll

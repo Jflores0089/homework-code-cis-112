@@ -1,0 +1,14 @@
+/Users/javierflores/CsharpProjects/Hurricane/bin/Debug/net10.0/Hurricane
+/Users/javierflores/CsharpProjects/Hurricane/bin/Debug/net10.0/Hurricane.deps.json
+/Users/javierflores/CsharpProjects/Hurricane/bin/Debug/net10.0/Hurricane.runtimeconfig.json
+/Users/javierflores/CsharpProjects/Hurricane/bin/Debug/net10.0/Hurricane.dll
+/Users/javierflores/CsharpProjects/Hurricane/bin/Debug/net10.0/Hurricane.pdb
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.dll
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/refint/Hurricane.dll
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.pdb
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/Hurricane.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/Hurricane/obj/Debug/net10.0/ref/Hurricane.dll

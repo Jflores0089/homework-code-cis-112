@@ -1,0 +1,14 @@
+/Users/javierflores/CsharpProjects/Prog2b/bin/Debug/net10.0/Prog2b
+/Users/javierflores/CsharpProjects/Prog2b/bin/Debug/net10.0/Prog2b.deps.json
+/Users/javierflores/CsharpProjects/Prog2b/bin/Debug/net10.0/Prog2b.runtimeconfig.json
+/Users/javierflores/CsharpProjects/Prog2b/bin/Debug/net10.0/Prog2b.dll
+/Users/javierflores/CsharpProjects/Prog2b/bin/Debug/net10.0/Prog2b.pdb
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.dll
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/refint/Prog2b.dll
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.pdb
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/Prog2b.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/Prog2b/obj/Debug/net10.0/ref/Prog2b.dll
