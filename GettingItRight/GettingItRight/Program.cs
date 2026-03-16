@@ -1,4 +1,5 @@
-﻿using static System.Console;
+﻿using System.ComponentModel;
+using static System.Console;
 
 class Program
 {
@@ -15,10 +16,10 @@ class Program
         menu.Add("americano", 4.50m);
         menu.Add("black tea", 3.00m);
         menu.Add("coffee", 3.00m);
-        List<string> order_list = new List<string>();
+        Dictionary<string, int> order_list = new Dictionary<string, int>();
         foreach (var item in menu)
         {
-            WriteLine(item.Key + " " + item.Value);
+            WriteLine($"{item.Key}: ${item.Value}");
             WriteLine();
         }
 
@@ -48,12 +49,20 @@ class Program
                     }
                     if (matched_item != null)
                     {
-                        order_list.Add(matched_item);
                         WriteLine($"Excellent choice! That will be {menu[matched_item]:C}.");
-                        WriteLine("Would you like anything else? (yes/no)");
+                        WriteLine("How Many would you like?");
+                        int quantity_ordered = int.Parse(ReadLine()?? "0");
+                        if (order_list.ContainsKey(matched_item))
+                        {
+                            order_list[matched_item] += quantity_ordered;
+                        }
+                        else
+                        {
+                            order_list.Add(matched_item, quantity_ordered);
+                        }
+                    WriteLine("Would you like anything else? (yes/no)");
                         string? more = ReadLine()?.ToLower();
-
-                        if (more == "no")
+                    if (more == "no")
                         {
                             user_deciding = false;
                         }
@@ -65,11 +74,11 @@ class Program
                 }
             }
             WriteLine("\nHere is your order summary:");
-        decimal total = 0;
-            foreach (string item in order_list)
+            decimal total = 0;
+            foreach (var matched_item in order_list)
             {
-            WriteLine($"- {item}: {menu[item]:C}");
-            total += menu[item];
+                WriteLine($"- {matched_item.Key} x{matched_item.Value}: {order_list[matched_item.Key]:C}");
+            total += order_list[matched_item.Key] * menu[matched_item.Key];
             }
             WriteLine($"\nYour total is:{total:C}");
             WriteLine("Getting it right Cafe thanks you for your patronage.");
