@@ -1,5 +1,4 @@
-﻿using System.ComponentModel;
-using static System.Console;
+﻿using static System.Console;
 
 class Program
 {
@@ -7,6 +6,10 @@ class Program
     {
         WriteLine("Hello!\nWelcome to Getting It Right Cafe!\nWhat is your name?");
         string? name = ReadLine();
+        if (string.IsNullOrWhiteSpace(name))
+        {
+           name = "there";
+        }
         WriteLine("Hello " + name + " have a look at our menu.");
         WriteLine();
 
@@ -34,55 +37,65 @@ class Program
             {
                 WriteLine("Please select a valid option.");
             }
-                else
+            else
+            {
+                string choice_lower = user_choice.ToLower();
+                string? matched_item = null;
+
+                foreach (var itemName in menu.Keys)
                 {
-                    string choice_lower = user_choice.ToLower();
-                    string? matched_item = null;
-                    
-                    foreach (var itemName in menu.Keys)
+                    if (choice_lower.Contains(itemName))
                     {
-                        if(choice_lower.Contains(itemName))
-                        {
-                            matched_item = itemName;
-                            break;
-                        }
+                        matched_item = itemName;
+                        break;
                     }
-                    if (matched_item != null)
+                }
+                if (matched_item != null)
+                {
+                    WriteLine($"Excellent choice! That will be {menu[matched_item]:C}.");
+                    WriteLine("How Many would you like?");
+                    int quantity_ordered = 0;
+                    while (!int.TryParse(ReadLine(), out quantity_ordered) || quantity_ordered <= 0)
                     {
-                        WriteLine($"Excellent choice! That will be {menu[matched_item]:C}.");
-                        WriteLine("How Many would you like?");
-                        int quantity_ordered = int.Parse(ReadLine()?? "0");
-                        if (order_list.ContainsKey(matched_item))
-                        {
-                            order_list[matched_item] += quantity_ordered;
-                        }
-                        else
-                        {
-                            order_list.Add(matched_item, quantity_ordered);
-                        }
+                        WriteLine("Im sorry that didnt work. Please try entering a number greater than zero.");
+                    }
+                    if (order_list.ContainsKey(matched_item))
+                    {
+                        order_list[matched_item] += quantity_ordered;
+                    }
+                    else
+                    {
+                        order_list.Add(matched_item, quantity_ordered);
+                    }
                     WriteLine("Would you like anything else? (yes/no)");
-                        string? more = ReadLine()?.ToLower();
-                    if (more == "no")
+                    string? more = ReadLine()?.ToLower();
+                    while (more != "no" && more != "yes")
+                    {
+                        WriteLine("Sorry didnt catch that. Please try again");
+                        more = ReadLine()?.ToLower();
+                    }
+                    {
+                        if (more == "no")
                         {
                             user_deciding = false;
                         }
-                    }    
-                    else
-                    {
-                        WriteLine("Sorry, I couldnt find a drink in what you said.\nPlease try mentioning a drink name");
+
                     }
                 }
+                else
+                {
+                    WriteLine("Sorry i couldn't find a drink in what you said.\n Please try mentioning a drink.");
+                }
             }
-            WriteLine("\nHere is your order summary:");
-            decimal total = 0;
-            foreach (var matched_item in order_list)
-            {
-                WriteLine($"- {matched_item.Key} x{matched_item.Value}: {order_list[matched_item.Key]:C}");
-            total += order_list[matched_item.Key] * menu[matched_item.Key];
-            }
-            WriteLine($"\nYour total is:{total:C}");
-            WriteLine("Getting it right Cafe thanks you for your patronage.");
-        }    
-    }   
-
-    
+        }
+        WriteLine("\nHere is your order summary:");
+        decimal total = 0;
+        foreach (var matched_item in order_list)
+        {
+            WriteLine($"- {matched_item.Key} x{matched_item.Value}: {matched_item.Value * menu[matched_item.Key]:C}");
+            total += matched_item.Value * menu[matched_item.Key];
+        }
+        WriteLine($"\nYour total is:{total:C}");
+        WriteLine("Getting it right Cafe thanks you for your patronage.");
+    }
+}
