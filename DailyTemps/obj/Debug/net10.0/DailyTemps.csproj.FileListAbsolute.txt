@@ -1,0 +1,15 @@
+/Users/javierflores/CsharpProjects/DailyTemps/bin/Debug/net10.0/DailyTemps
+/Users/javierflores/CsharpProjects/DailyTemps/bin/Debug/net10.0/DailyTemps.deps.json
+/Users/javierflores/CsharpProjects/DailyTemps/bin/Debug/net10.0/DailyTemps.runtimeconfig.json
+/Users/javierflores/CsharpProjects/DailyTemps/bin/Debug/net10.0/DailyTemps.dll
+/Users/javierflores/CsharpProjects/DailyTemps/bin/Debug/net10.0/DailyTemps.pdb
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.sourcelink.json
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.dll
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/refint/DailyTemps.dll
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.pdb
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/DailyTemps.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/DailyTemps/obj/Debug/net10.0/ref/DailyTemps.dll

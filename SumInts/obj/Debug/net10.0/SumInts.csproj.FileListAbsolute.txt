@@ -1,0 +1,15 @@
+/Users/javierflores/CsharpProjects/SumInts/bin/Debug/net10.0/SumInts
+/Users/javierflores/CsharpProjects/SumInts/bin/Debug/net10.0/SumInts.deps.json
+/Users/javierflores/CsharpProjects/SumInts/bin/Debug/net10.0/SumInts.runtimeconfig.json
+/Users/javierflores/CsharpProjects/SumInts/bin/Debug/net10.0/SumInts.dll
+/Users/javierflores/CsharpProjects/SumInts/bin/Debug/net10.0/SumInts.pdb
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.sourcelink.json
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.dll
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/refint/SumInts.dll
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.pdb
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/SumInts.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/SumInts/obj/Debug/net10.0/ref/SumInts.dll

@@ -1,0 +1,15 @@
+/Users/javierflores/CsharpProjects/SumFiveInts/bin/Debug/net10.0/SumFiveInts
+/Users/javierflores/CsharpProjects/SumFiveInts/bin/Debug/net10.0/SumFiveInts.deps.json
+/Users/javierflores/CsharpProjects/SumFiveInts/bin/Debug/net10.0/SumFiveInts.runtimeconfig.json
+/Users/javierflores/CsharpProjects/SumFiveInts/bin/Debug/net10.0/SumFiveInts.dll
+/Users/javierflores/CsharpProjects/SumFiveInts/bin/Debug/net10.0/SumFiveInts.pdb
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.AssemblyInfoInputs.cache
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.AssemblyInfo.cs
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.csproj.CoreCompileInputs.cache
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.sourcelink.json
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.dll
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/refint/SumFiveInts.dll
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.pdb
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/SumFiveInts.genruntimeconfig.cache
+/Users/javierflores/CsharpProjects/SumFiveInts/obj/Debug/net10.0/ref/SumFiveInts.dll
