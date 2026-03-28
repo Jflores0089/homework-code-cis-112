@@ -14,7 +14,7 @@ class CountVowels
 
         foreach (char currentChar in userInput)
         {
-            if (currentChar == 'a' || currentChar == 'e' || currentChar == 'i' || currentChar == 'o' || currentChar == 'u' || currentChar == 'A' || currentChar == 'E' || currentChar == 'I' || currentChar == 'O' || currentChar == 'U')
+            if ("aeiouAEIOU".Contains(currentChar))
             {
                 ++counter;
             } 
