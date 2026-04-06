@@ -6,7 +6,7 @@ class ArrayDemo
   {
     int[] arrayDemo = new int[10];
     int userChoice = 0;
-    while (userChoice != 999)
+    while (userChoice != 4)
     {
       WriteLine("To view list from first to last, press 1");
       WriteLine("To view list from last to first, press 2");
@@ -17,10 +17,11 @@ class ArrayDemo
       {
         case 1:
           {
-            for(int x = 0; x >10;++x)
+            for(int x = 0; x < 10; ++x)
             {
-              WriteLine()
+            WriteLine(arrayDemo[x]);
             }
+          break;
           }
       }
     }
