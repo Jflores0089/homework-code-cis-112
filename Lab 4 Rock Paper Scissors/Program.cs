@@ -1,10 +1,11 @@
-﻿namespace Lab_4_Rock_Paper_Scissors
+﻿using static System.Console;
+
+class RockPaperScissors
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        WriteLine("Welcome to Rock,Paper,Scissors");
+        WriteLine("Please make a selection");
+        WriteLine("1. Rock\n2. Paper\n3. Scissors");
     }
 }
