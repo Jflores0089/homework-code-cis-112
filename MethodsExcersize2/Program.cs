@@ -27,6 +27,7 @@ class SalesLetter
 
        WriteLine("Thank you for your attention to this matter.");
        WriteLine("Bob Jenkins");
+       WriteLine();
        DisplayContactInfo();
     }
 }
